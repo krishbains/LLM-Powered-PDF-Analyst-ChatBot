@@ -1,0 +1,1 @@
+pip install --upgrade pymilvus sentence-transformers huggingface-hub langchain_community langchain-text-splitters pypdf tqdm streamlit 
